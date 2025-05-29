@@ -39,7 +39,7 @@ I'm passionate about building robust systems, automating tedious tasks, and craf
 
 ## 🌍 Let’s Connect
 
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/shawn-tavares-6763b8152/)  
 - [Portfolio](#) (coming soon)  
 - 📫 [Email me](mailto:shawn.tavares@outlook.com)
 

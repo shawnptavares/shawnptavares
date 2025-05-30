@@ -2,8 +2,7 @@
 
 I'm a Systems Engineer with over 10 years in IT and 5 years managing full datacenter infrastructure. I specialize in **Azure**, **Intune**, **Active Directory**, and enterprise-grade solutions — and I'm currently transitioning toward **cloud consulting** and **cybersecurity** roles.
 
-I'm passionate about building robust systems, automating tedious tasks, and crafting secure, scalable infrastructure — all while planning a move to remote northern Ontario 🌲.
-
+I'm passionate about building robust systems, automating tedious tasks, and crafting secure, scalable infrastructure.
 ---
 
 ## 🧠 Skills & Tools

@@ -3,7 +3,7 @@
 I'm a Systems Engineer with over 10 years in IT and 5 years managing full datacenter infrastructure. I specialize in **Azure**, **Intune**, **Active Directory**, and enterprise-grade solutions — and I'm currently transitioning toward **cloud consulting** and **cybersecurity** roles.
 
 I'm passionate about building robust systems, automating tedious tasks, and crafting secure, scalable infrastructure.
----
+
 
 ## 🧠 Skills & Tools
 
@@ -23,10 +23,10 @@ I'm passionate about building robust systems, automating tedious tasks, and craf
 - 🛠️ **[PowerShell Toolkit](#)**  
   A growing library of tools for IT admins — including stale object cleanup, reporting scripts, and deployment helpers.
 
-- ☁️ **[Azure Home Lab](#)**  
+- ☁️ **[Azure Home Lab (Under Construction)](#)**  
   Azure infrastructure project featuring Arc-enabled servers, Defender for Cloud, and centralized monitoring.
 
-- 🌐 **[Portfolio Website (WIP)](https://github.com/shawnptavares/portfolio)**  
+- 🌐 **[Portfolio Website (Still planning out)](https://github.com/shawnptavares/portfolio)**  
   A personal portfolio showcasing my infrastructure work, automation projects, and blog. (Under Construction)
 
 ---

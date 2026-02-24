@@ -1,46 +1,47 @@
-# 👋 Hey, I'm Shawn.
+# Hey, I'm Shawn Tavares 👋
 
-I'm a Systems Engineer with over 10 years in IT and 5 years managing full datacenter infrastructure. I specialize in **Azure**, **Intune**, **Active Directory**, and enterprise-grade solutions — and I'm currently transitioning toward **cloud consulting** and **cybersecurity** roles.
+Systems Engineer based in Hamilton, ON — 10+ years in enterprise IT, 5 years managing full datacenter infrastructure. I specialize in the Microsoft ecosystem: **Azure**, **Intune**, **Active Directory**, and **PowerShell automation**.
 
-I'm passionate about building robust systems, automating tedious tasks, and crafting secure, scalable infrastructure.
+I'm building [North Node Tech](https://northnodetech.ca) — a consulting practice focused on helping businesses modernize, automate, and secure their environments.
 
+---
 
-## 🧠 Skills & Tools
+## 🔧 What I Work With
 
-- ☁️ **Cloud:** Azure • AVD • Azure Arc • Defender for Cloud • App Proxy  
-- 🖥️ **Infra:** Active Directory • Intune • SCCM • VMware • zScaler • Veeam  
-- ⚙️ **Scripting & Automation:** PowerShell • GitHub Actions • Terraform (learning)  
-- 🔐 **Security:** AppLocker • RADIUS • ClearPass • Defender for Endpoint  
-- 🛠️ **Monitoring & Tools:** SolarWinds ARM • Papercut • WatchGuard • Cloudflare  
+| Cloud & Identity | Endpoint & Infra | Scripting & Automation | Security |
+|---|---|---|---|
+| Azure • AVD • Azure Arc | Active Directory • Intune • SCCM | PowerShell • Microsoft Graph | AppLocker • Defender for Endpoint |
+| Defender for Cloud • App Proxy | VMware • Veeam • ZScaler | GitHub Actions • Terraform (learning) | RADIUS • ClearPass • PKI |
 
 ---
 
 ## 📦 Featured Projects
 
-- 🔐 **[AppLocker Intune Policy & Documentation](#)**  
-  A breakdown of AppLocker deployment through Intune, bypass methods, and technician-safe zones.
+### 🛠️ [PowerShell Toolkit](https://github.com/shawnptavares/powershell-toolkit)
+Production-tested scripts for IT admins — Intune bulk operations, AD stale object cleanup, SCCM collection management, and a daily-driver profile with tools like `purge` (removes a device from AD, AAD, Intune, Autopilot, and ConfigMgr in one command).
 
-- 🛠️ **[PowerShell Toolkit](#)**  
-  A growing library of tools for IT admins — including stale object cleanup, reporting scripts, and deployment helpers.
+### 💻 [Homelab](https://github.com/shawnptavares/homelab)
+A living, documented homelab build — VLAN-segmented network, pfSense firewall, Docker services (Pi-hole, Dashy, Uptime Kuma), and expanding toward Azure Arc integration and centralized monitoring.
 
-- ☁️ **[Azure Home Lab (Under Construction)](#)**  
-  Azure infrastructure project featuring Arc-enabled servers, Defender for Cloud, and centralized monitoring.
-
-- 🌐 **[Portfolio Website (Still planning out)](https://github.com/shawnptavares/portfolio)**  
-  A personal portfolio showcasing my infrastructure work, automation projects, and blog. (Under Construction)
+### 🔐 AppLocker via Intune *(coming soon)*
+A documented breakdown of deploying AppLocker through Intune — policy design, bypass considerations, technician-safe zones, and enterprise enforcement strategies.
 
 ---
 
 ## 📜 Certifications
-- 🎓 Microsoft Certified: Azure Administrator Associate (AZ-104) _(in progress)_
+
+- 🔄 **AZ-104: Azure Administrator Associate** — In Progress
+- ✅ 10+ Years Enterprise IT Experience
+- ✅ 5 Years Full Datacenter Management
 
 ---
 
-## 🌍 Let’s Connect
+## 🌍 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/shawn-tavares-6763b8152/)  
-- [Portfolio](#) (coming soon)  
-- 📫 [Email me](mailto:shawn.tavares@outlook.com)
+[![Portfolio](https://img.shields.io/badge/northnodetech.ca-000000?style=flat&logo=google-chrome&logoColor=00c8ff)](https://northnodetech.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-tavares-6763b8152/)
+[![Email](https://img.shields.io/badge/Email-shawn.tavares@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:shawn.tavares@outlook.com)
 
 ---
-_Always building, always learning._
+
+*Always building. Always learning.*

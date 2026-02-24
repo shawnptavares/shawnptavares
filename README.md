@@ -1,6 +1,6 @@
 # Hey, I'm Shawn Tavares 👋
 
-Systems Engineer based in Hamilton, ON — 10+ years in enterprise IT, 5 years managing full datacenter infrastructure. I specialize in the Microsoft ecosystem: **Azure**, **Intune**, **Active Directory**, and **PowerShell automation**.
+Systems Engineer based in Leamington, ON — 10+ years in enterprise IT, 5 years managing full datacenter infrastructure. I specialize in the Microsoft ecosystem: **Azure**, **Intune**, **Active Directory**, and **PowerShell automation**.
 
 I'm building [North Node Tech](https://northnodetech.ca) — a consulting practice focused on helping businesses modernize, automate, and secure their environments.
 
